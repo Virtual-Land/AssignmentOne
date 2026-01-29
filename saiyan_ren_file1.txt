@@ -1,1 +1,3 @@
 This is saiyan's file
+I edited this with vim! To exit hit the escape key
+Then at the bottom hit the symbol key for colon and type wq for write and quit.
